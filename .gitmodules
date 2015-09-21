@@ -1,0 +1,60 @@
+[submodule "third_party/belle-sip"]
+	path = third_party/belle-sip
+	url = git://git.linphone.org/belle-sip.git
+[submodule "third_party/linphone"]
+	path = third_party/linphone
+	url = git://git.linphone.org/linphone.git
+[submodule "third_party/antlr3"]
+	path = third_party/antlr3
+	url = git://git.linphone.org/antlr3.git
+[submodule "third_party/gsm"]
+	path = third_party/gsm
+	url = git://git.linphone.org/gsm.git
+[submodule "third_party/speex"]
+	path = third_party/speex
+	url = git://git.linphone.org/speex.git
+[submodule "third_party/cunit"]
+	path = third_party/cunit
+	url = git://git.linphone.org/cunit.git
+[submodule "third_party/mswasapi"]
+	path = third_party/mswasapi
+	url = git://git.linphone.org/mswasapi.git
+[submodule "third_party/libilbc-rfc3951"]
+	path = third_party/libilbc-rfc3951
+	url = git://git.linphone.org/libilbc-rfc3951.git
+[submodule "third_party/msilbc"]
+	path = third_party/msilbc
+	url = git://git.linphone.org/msilbc.git
+[submodule "third_party/mssilk"]
+	path = third_party/mssilk
+	url = git://git.linphone.org/mssilk.git
+[submodule "third_party/polarssl"]
+	path = third_party/polarssl
+	url = git://git.linphone.org/polarssl.git
+[submodule "third_party/opencore-amr"]
+	path = third_party/opencore-amr
+	url = git://git.code.sf.net/p/opencore-amr/code
+[submodule "third_party/vo-amrwbenc"]
+	path = third_party/vo-amrwbenc
+	url = git://git.code.sf.net/p/opencore-amr/vo-amrwbenc
+[submodule "third_party/msamr"]
+	path = third_party/msamr
+	url = git://git.linphone.org/msamr.git
+[submodule "third_party/libxml2"]
+	path = third_party/libxml2
+	url = git://git.gnome.org/libxml2
+[submodule "third_party/bcg729"]
+	path = third_party/bcg729
+	url = git://git.linphone.org/bcg729.git
+[submodule "third_party/srtp"]
+	path = third_party/srtp
+	url = git://git.linphone.org/srtp.git
+[submodule "third_party/opus"]
+	path = third_party/opus
+	url = git://git.linphone.org/opus.git
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = git://git.linphone.org/zlib.git
+[submodule "third_party/mswebrtc"]
+	path = third_party/mswebrtc
+	url = git://git.linphone.org/mswebrtc.git
